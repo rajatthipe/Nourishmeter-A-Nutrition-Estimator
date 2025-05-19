@@ -53,7 +53,3 @@ The Nourishmeter system follows this pipeline:
 
 The model is trained on a dataset of labeled food images and optimized for generalization across common food categories.
 
----
-
-## 📁 Project Structure
-
