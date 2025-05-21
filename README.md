@@ -44,6 +44,7 @@ The Nourishmeter system follows this pipeline:
 
 ---
 
+
 ## 🧰 Model Used
 
 - **Architecture**: Convolutional Neural Network (CNN)  
